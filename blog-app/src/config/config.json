@@ -1,0 +1,28 @@
+{
+  "development": {
+    "username": "user_blog",
+    "password": "test_blog",
+    "database": "postgres",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "operatorsAliases": false
+  },
+  "test": {
+    "username": "test_user",
+    "password": "pwd",
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "operatorsAliases": false,
+    "port": "5433"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "operatorsAliases": false,
+    "port": "5434"
+  }
+}

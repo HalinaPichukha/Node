@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c689b138-710e-4105-8767-dfb3571774fb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1XvKtH8gHRUFBLIi0rj5vge022Y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="javascript.nodejs.core.library.configured.version" value="8.10.0" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="$PROJECT_DIR$/node_modules/mocha" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Mocha.POSTS">
+    <configuration name="src: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="sourceFilePath" value="src/docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="POSTS" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>SUITE</test-kind>
+      <test-file>$PROJECT_DIR$/tests/posts.js</test-file>
+      <test-names>
+        <name value="POSTS" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Mocha.POSTS" />
+        <item itemvalue="Docker.src: Compose Deployment" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c689b138-710e-4105-8767-dfb3571774fb" name="Default Changelist" comment="" />
+      <created>1581921342719</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581921342719</updated>
+      <workItem from="1581921350654" duration="5476000" />
+      <workItem from="1582363105526" duration="13750000" />
+      <workItem from="1583129103870" duration="6196000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="406" y="201" width="611" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583132168716">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="406" y="201" width="611" height="390" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1299.741@67.27.1299.741" timestamp="1583132168716" />
+    <state x="449" y="145" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583135298021">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="449" y="145" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.27.1299.741@67.27.1299.741" timestamp="1583135298021" />
+    <state x="390" y="114" width="642" height="564" key="#src:_Compose_Deployment" timestamp="1583130040778">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="390" y="114" width="642" height="564" key="#src:_Compose_Deployment/67.27.1299.741@67.27.1299.741" timestamp="1583130040778" />
+    <state width="1253" height="361" key="GridCell.Tab.0.bottom" timestamp="1583134611210">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="361" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1583134611210" />
+    <state width="1253" height="361" key="GridCell.Tab.0.center" timestamp="1583134611207">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="361" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1583134611207" />
+    <state width="1253" height="361" key="GridCell.Tab.0.left" timestamp="1583134611205">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="361" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1583134611205" />
+    <state width="1253" height="361" key="GridCell.Tab.0.right" timestamp="1583134611209">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="361" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1583134611209" />
+    <state x="205" y="33" key="SettingsEditor" timestamp="1581921385747">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="205" y="33" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1581921385747" />
+    <state x="372" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1583129115665">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="372" y="225" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1583129115665" />
+    <state x="67" y="27" width="710" height="741" key="find.popup" timestamp="1581926598458">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="67" y="27" width="710" height="741" key="find.popup/67.27.1299.741@67.27.1299.741" timestamp="1581926598458" />
+    <state x="67" y="123" width="1289" height="548" key="new project wizard" timestamp="1583132610879">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="67" y="123" width="1289" height="548" key="new project wizard/67.27.1299.741@67.27.1299.741" timestamp="1583132610879" />
+    <state x="379" y="89" key="search.everywhere.popup" timestamp="1581921439352">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="379" y="89" key="search.everywhere.popup/67.27.1299.741@67.27.1299.741" timestamp="1581921439352" />
+  </component>
+</project>
